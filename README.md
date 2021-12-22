@@ -1,4 +1,4 @@
-# Instalation App
+# App Instalation
 
 1. It is expected that you already have a working development environment with npm and node.js installed.
 2. Within the root of the project run “npm install” command to install the application.
