@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.center-loading {
+  line-height: 650px;
+  height: 600px;
+  /* border: 3px solid green; */
+  text-align: center;
+}
+
+.logo-nav{
+  width: 30%;
+  margin-left: 10px;
+}
