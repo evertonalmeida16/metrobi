@@ -2,7 +2,7 @@
 
 1. It is expected that you already have a working development environment with npm and node.js installed.
 2. Within the root of the project run “npm install” command to install the application.
-3. After installation it is possible to run the application by running the command “npm start” (The application will go up on the following endpoint http://localhost: 3000).
+3. After installation it is possible to run the application by running the command “npm start” (The application will go up on the following endpoint http://localhost:3000).
 4. To stop the application just press (control) “ctrl + c” on the same terminal that the npm start command was installed.
 
 
